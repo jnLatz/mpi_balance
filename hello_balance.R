@@ -1,3 +1,5 @@
+suppressMessages(install.packages("pbdMPI"))
+
 suppressMessages(library(pbdMPI))
 suppressMessages(library(parallel))
 
